@@ -64,6 +64,10 @@ I am a PhD candidate in the [School of Information](https://ischool.ubc.ca/) at 
 
 * Al-Smadi, M., **Talafha, B.**, Qawasmeh, O., Alandoli, M. N., Hussien, W. A., & Guetl, C. (2015, October). A hybrid approach for Arabic named entity disambiguation. In Proceedings of the 15th International Conference on Knowledge Technologies and Data-driven Business (pp. 1-4).
 
+* Al-Smadi, M., Qawasmeh, O., **Talafha, B.** and Quwaider, M., 2015, August. Human annotated arabic dataset of book reviews for aspect based sentiment analysis. In 2015 3rd International conference on future internet of things and cloud (pp. 726-730). IEEE.
+
+
+
 # Patents:
 * [Multilingual translation device and method](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0ZhSI1sAAAAJ&sortby=pubdate&citation_for_view=0ZhSI1sAAAAJ:WF5omc3nYNoC)
 * [Method and apparatus for processing language based on trained network model](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0ZhSI1sAAAAJ&sortby=pubdate&citation_for_view=0ZhSI1sAAAAJ:Se3iqnhoufwC)
