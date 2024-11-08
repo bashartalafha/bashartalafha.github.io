@@ -71,3 +71,16 @@ I am a PhD candidate in the [School of Information](https://ischool.ubc.ca/) at 
 # Patents:
 * [Multilingual translation device and method](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0ZhSI1sAAAAJ&sortby=pubdate&citation_for_view=0ZhSI1sAAAAJ:WF5omc3nYNoC)
 * [Method and apparatus for processing language based on trained network model](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0ZhSI1sAAAAJ&sortby=pubdate&citation_for_view=0ZhSI1sAAAAJ:Se3iqnhoufwC)
+
+# HONORS & AWARDS:
+* 4-times Four-Year Fellowships (4YF), UBC / Ph.D. Award 
+* 4-times International Tuition Award, UBC / Ph.D. Award 
+* 4-times President’s Academic Excellence Initiative PhD Award, UBC / Ph.D. Award 
+* R Howard Webster Foundation Fellowship, UBC / Ph.D. Award
+* 1st place in the NADI shared task 1, Coling 2020
+* 2nd place in the MADAR shared task 2, ACL 2019
+* 3rd place in the MADAR shared task 1, ACL 2019
+* 4th place in the CL-AFF shared task at AAAI 2019.
+* Distinguished Employee Award, Samsung / Samsung R&D  Institute (SRJO)
+* Best Project Award, Samsung / Samsung R&D Institute (SRJO)
+* Best Graduation Project Award, JUST
