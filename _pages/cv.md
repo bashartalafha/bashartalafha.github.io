@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-_If you're using a mobile browser, you can find my CV here: [Bashar_Talafha.pdf](https://bashartalafha.github.io/images/Bashar_Talafha.pdf)_
+<!-- _If you're using a mobile browser, you can find my CV here: [Bashar_Talafha.pdf](https://bashartalafha.github.io/images/Bashar_Talafha.pdf)_
 
 <embed src="https://bashartalafha.github.io/images/Bashar_Talafha.pdf" type="application/pdf" width="100%" height="100%"/>
 
-
+-->
 <!-- <object data="https://bashartalafha.github.io/images/Bashar_Talafha.pdf" type="application/pdf" width="100%" height="100%">  -->
 <!-- </object> -->
 
