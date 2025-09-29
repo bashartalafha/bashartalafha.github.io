@@ -16,6 +16,10 @@ I am a PhD candidate in the [School of Information](https://ischool.ubc.ca/) at 
 
 # Publications:
 
+* Yan, B., Hamed, I., Shimizu, S., Lodagala, V., Chen, W., Iakovenko, O., **Talafha, B.**, Hussein, A., Polok, A., Chang, K. and Klement, D., 2025. CS-FLEURS: A Massively Multilingual and Code-Switched Speech Dataset. arXiv preprint arXiv:2509.14161.
+
+* **Talafha, B.**, Toyin, H.O., Sullivan, P., Elmadany, A., Juma, A., Djanibekov, A., Zhang, C., Alshehhi, H., Aldarmaki, H., Jarrar, M. and Habash, N., 2025. NADI 2025: The First Multidialectal Arabic Speech Processing Shared Task. arXiv preprint arXiv:2509.02038.
+
 * **Talafha, B.**, Kadaoui, K., Magdy, S.M., Habiboullah, M., Chafei, C.M., El-Shangiti, A.O., Zayed, H., Alhamouri, R., Assi, R., Alraeesi, A. and Mohamed, H., 2024. Casablanca: Data and Models for Multidialectal Arabic Speech Recognition. arXiv preprint arXiv:2410.04527.
 
 * Jarrar, M., Hamad, N., Khalilia, M., **Talafha, B.**, Elmadany, A. and Abdul-Mageed, M., 2024. WojoodNER 2024: The Second Arabic Named Entity Recognition Shared Task. arXiv preprint arXiv:2407.09936.
